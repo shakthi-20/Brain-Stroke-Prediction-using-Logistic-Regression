@@ -1,2 +1,5 @@
 # Brain-Stroke-Prediction-using-Logistic-Regression
-A simple and efficient model to predict the risk of brain stroke based on certain parameters.
+A simple and efficient model to predict the risk of brain stroke based on certain parameters like age, hypertension, glucose level, smoking status, BMI, etc.,
+The ML model developed uses Logistic Regression and attained an accuracy of about 94% which is nearly equal to the accuracy obtained in Random Forest Classifier.
+Human body is the most complex machine in the universe and this machine is controlled by brain. Brain health is important in order to function properly. Brain stroke has become common nowadays due to the modern lifestyle that we adapt. The two primary reasons for brain stroke are damage in the skull and blockage of artery that stops circulating blood to the brain.
+The main motive to develop this ML model is to make users predict their risk of getting a brain stroke at the comfort of their home by entering few details. This methodology not only reduces the exposure of harmful radiation and save money but also ensures that people are well aware about their health to get timely checked up for any healthcare risks in the future as it's always said that # "Prevention is better than cure".
